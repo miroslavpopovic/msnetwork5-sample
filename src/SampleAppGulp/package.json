@@ -1,0 +1,18 @@
+{
+	"version": "0.0.0",
+	"name": "",
+	"devDependencies": {
+		"del": "1.1.1",
+		"gulp": "3.8.11",
+		"gulp-batch": "^1.0.5",
+		"gulp-cssmin": "0.1.7",
+		"gulp-jshint": "1.10.0",
+		"gulp-less": "3.0.3",
+		"gulp-plumber": "1.0.0",
+		"gulp-rename": "1.2.2",
+		"gulp-uglify": "1.2.0",
+		"gulp-watch": "^4.2.4",
+		"rimraf": "2.3.2",
+		"run-sequence": "^1.1.0"
+	}
+}
